@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="71" started-at="2019-10-22T09:00:11 BDT" finished-at="2019-10-22T09:00:11 BDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="71" started-at="2019-10-22T09:00:11 BDT" finished-at="2019-10-22T09:00:11 BDT">
+      <class name="TestCases.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAUtomation()[pri:0, instance:TestCases.SeleniumTest@1d56113]" name="BrowserAUtomation" duration-ms="8" started-at="2019-10-22T09:00:11 BDT" finished-at="2019-10-22T09:00:11 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:TestCases.SeleniumTest@1d56113]" name="elementsUi" duration-ms="0" started-at="2019-10-22T09:00:11 BDT" finished-at="2019-10-22T09:00:11 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- TestCases.SeleniumTest -->
+      <class name="TestCases.AppiumTest">
+        <test-method status="PASS" signature="NativeAPpAndroid()[pri:0, instance:TestCases.AppiumTest@1c24521]" name="NativeAPpAndroid" duration-ms="0" started-at="2019-10-22T09:00:11 BDT" finished-at="2019-10-22T09:00:11 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPpAndroid -->
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:TestCases.AppiumTest@1c24521]" name="IOSApps" duration-ms="0" started-at="2019-10-22T09:00:11 BDT" finished-at="2019-10-22T09:00:11 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+      </class> <!-- TestCases.AppiumTest -->
+      <class name="TestCases.RESTAPITest">
+        <test-method status="PASS" signature="postJira()[pri:0, instance:TestCases.RESTAPITest@8080bb]" name="postJira" duration-ms="0" started-at="2019-10-22T09:00:11 BDT" finished-at="2019-10-22T09:00:11 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:TestCases.RESTAPITest@8080bb]" name="deleteTwitter" duration-ms="0" started-at="2019-10-22T09:00:11 BDT" finished-at="2019-10-22T09:00:11 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- TestCases.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
